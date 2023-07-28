@@ -21,7 +21,7 @@ const projects = [
   {
     name: "NBA Player Odds Extension",
     description:
-      "This is a chrome extension that allows users to see betting odds on various NBA players in real from a variety of sports betting services.",
+      "This is a chrome extension that allows users to see betting odds on various NBA players in real time from a variety of sports betting services.",
     github: "https://github.com/manthand23/NBA-Odds-Chrome-Extension",
     technologies: ["Chrome Extension API", "NBA Live Player Odds API", "HTML", "CSS", "JavaScript"],
   },
